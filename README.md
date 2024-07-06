@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrishtiJain0715
+- 👋 Hi, I’m SrishtiJain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate
