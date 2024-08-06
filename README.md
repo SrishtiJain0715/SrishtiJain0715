@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SrishtiJain
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Frontend and Backend
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me srishtijain0715@gmail.com 
